@@ -1,0 +1,28 @@
+h1, p {
+    text-align: center;
+    font-weight: bold;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+#clickPanel {
+    cursor: pointer;
+    color: #A9A9A9;
+    padding: 80px 0;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#programInfo {
+    color: red;
+    padding: 25px 0;
+}
+
+span {
+    font-size: 20px;
+    text-align: center;
+}

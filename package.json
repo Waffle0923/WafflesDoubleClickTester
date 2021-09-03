@@ -1,0 +1,24 @@
+{
+  "name": "Waffles Double Click Tester",
+  "version": "1.0.0",
+  "description": "WafflesDoubleClickTester made by waffles0923",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "doubleclick",
+    "tester",
+    "electron"
+  ],
+  "author": "waffles0923",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^14.0.0",
+    "electron-packager": "^15.3.0"
+  },
+  "dependencies": {
+    "asar": "^3.0.3"
+  }
+}
