@@ -20,7 +20,5 @@
     "electron": "^14.0.0",
     "electron-packager": "^15.3.0"
   },
-  "dependencies": {
-    "asar": "^3.0.3"
-  }
+  "dependencies": {}
 }
