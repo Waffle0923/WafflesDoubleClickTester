@@ -13,7 +13,7 @@ function createWindow() {
     });
     win.menuBarVisible = false;
     win.loadFile('index.html');
-};
+}
 
 app.whenReady().then(() => {
     createWindow();
